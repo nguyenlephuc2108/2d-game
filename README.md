@@ -2,7 +2,7 @@
 
 ## Game Version
 
-[v0.0.5] : Player control.
+[v0.0.5](https://github.com/nguyenlephuc2108/2d-game/blob/main/v0.0.5.py) : Player control.
 
 [v0.0.4] : Player draw.
 
